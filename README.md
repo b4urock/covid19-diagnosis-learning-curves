@@ -31,7 +31,7 @@ Classification of the COVID-19 patient's situation in the Sírio Libanês Hospit
 * Pycaret
 * Sklearn
 * Scipy
-* shap
+* Shap
 * Sweetviz
 * Fbprophet
 
